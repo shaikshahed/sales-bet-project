@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "730675446643",
+    "project_id": "sales-bet-project",
+    "storage_bucket": "sales-bet-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730675446643:android:83b5587694403296c73b06",
+        "android_client_info": {
+          "package_name": "com.example.sales_bet_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4gWXV-IHtOuVDANazopZEj7BjO7lnd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730675446643:android:fb638d1a8d57cd15c73b06",
+        "android_client_info": {
+          "package_name": "com.example.sales_bets_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4gWXV-IHtOuVDANazopZEj7BjO7lnd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+name: sales_bets
+description: Firebase-enabled SalesBets scaffold
+version: 0.0.2
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  cloud_firestore: ^4.9.0
+  firebase_storage: ^11.6.0
+  firebase_messaging: ^14.4.0
+  video_player: ^2.6.1
+  animated_text_kit: ^4.2.2
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.16.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
